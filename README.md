@@ -1,5 +1,5 @@
 项目图片
-![Image text](https://raw.githubusercontent.com/657797068/tradingview-vuejs-websocket/master/src/assets/images/011BCD27-DD67-452b-B29E-E4E103974358.png)
+![Image text](https://raw.githubusercontent.com/657797068/tradingview-vuejs-websocket/master/src/assets/images/demo.png)
 
 初始化 
 npm inistall
